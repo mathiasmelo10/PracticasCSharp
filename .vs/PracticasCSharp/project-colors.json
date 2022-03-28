@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b40ec739-78af-4f0e-a984-cb469922ac5f": {
+      "ProjectGuid": "b40ec739-78af-4f0e-a984-cb469922ac5f",
+      "DisplayName": "PracticasCSharp",
+      "ColorIndex": 0
+    },
+    "0aa2ff40-ead5-4588-916e-35ec92a47085": {
+      "ProjectGuid": "0aa2ff40-ead5-4588-916e-35ec92a47085",
+      "DisplayName": "PracticasCSharp",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

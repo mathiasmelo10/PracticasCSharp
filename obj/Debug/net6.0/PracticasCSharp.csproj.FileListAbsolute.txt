@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\PracticasCSharp\bin\Debug\net6.0\PracticasCSharp.exe
+C:\Users\Usuario\source\repos\PracticasCSharp\bin\Debug\net6.0\PracticasCSharp.deps.json
+C:\Users\Usuario\source\repos\PracticasCSharp\bin\Debug\net6.0\PracticasCSharp.runtimeconfig.json
+C:\Users\Usuario\source\repos\PracticasCSharp\bin\Debug\net6.0\PracticasCSharp.dll
+C:\Users\Usuario\source\repos\PracticasCSharp\bin\Debug\net6.0\ref\PracticasCSharp.dll
+C:\Users\Usuario\source\repos\PracticasCSharp\bin\Debug\net6.0\PracticasCSharp.pdb
+C:\Users\Usuario\source\repos\PracticasCSharp\obj\Debug\net6.0\PracticasCSharp.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\PracticasCSharp\obj\Debug\net6.0\PracticasCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\PracticasCSharp\obj\Debug\net6.0\PracticasCSharp.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\PracticasCSharp\obj\Debug\net6.0\PracticasCSharp.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\PracticasCSharp\obj\Debug\net6.0\PracticasCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\PracticasCSharp\obj\Debug\net6.0\PracticasCSharp.dll
+C:\Users\Usuario\source\repos\PracticasCSharp\obj\Debug\net6.0\ref\PracticasCSharp.dll
+C:\Users\Usuario\source\repos\PracticasCSharp\obj\Debug\net6.0\PracticasCSharp.pdb
+C:\Users\Usuario\source\repos\PracticasCSharp\obj\Debug\net6.0\PracticasCSharp.genruntimeconfig.cache
