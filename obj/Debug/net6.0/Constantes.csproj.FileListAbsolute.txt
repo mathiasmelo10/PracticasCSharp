@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\Constantes\bin\Debug\net6.0\Constantes.exe
+C:\Users\Usuario\source\repos\Constantes\bin\Debug\net6.0\Constantes.deps.json
+C:\Users\Usuario\source\repos\Constantes\bin\Debug\net6.0\Constantes.runtimeconfig.json
+C:\Users\Usuario\source\repos\Constantes\bin\Debug\net6.0\Constantes.dll
+C:\Users\Usuario\source\repos\Constantes\bin\Debug\net6.0\ref\Constantes.dll
+C:\Users\Usuario\source\repos\Constantes\bin\Debug\net6.0\Constantes.pdb
+C:\Users\Usuario\source\repos\Constantes\obj\Debug\net6.0\Constantes.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Constantes\obj\Debug\net6.0\Constantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Constantes\obj\Debug\net6.0\Constantes.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Constantes\obj\Debug\net6.0\Constantes.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Constantes\obj\Debug\net6.0\Constantes.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Constantes\obj\Debug\net6.0\Constantes.dll
+C:\Users\Usuario\source\repos\Constantes\obj\Debug\net6.0\ref\Constantes.dll
+C:\Users\Usuario\source\repos\Constantes\obj\Debug\net6.0\Constantes.pdb
+C:\Users\Usuario\source\repos\Constantes\obj\Debug\net6.0\Constantes.genruntimeconfig.cache
