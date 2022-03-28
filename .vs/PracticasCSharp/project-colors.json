@@ -8,9 +8,14 @@
     },
     "0aa2ff40-ead5-4588-916e-35ec92a47085": {
       "ProjectGuid": "0aa2ff40-ead5-4588-916e-35ec92a47085",
-      "DisplayName": "PracticasCSharp",
+      "DisplayName": "Convert and Parse",
       "ColorIndex": 1
+    },
+    "e02c796d-31dd-4b8e-9fe8-145eda267ac9": {
+      "ProjectGuid": "e02c796d-31dd-4b8e-9fe8-145eda267ac9",
+      "DisplayName": "Constantes",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }
