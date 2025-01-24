@@ -16,12 +16,11 @@ namespace PracticasCSharp
             Console.WriteLine("El resultado de " + primerNumero +" + "+ segundoNumero + " es: "+(primerNumero+segundoNumero));
             Console.WriteLine("El resultado de " + primerNumero + " - " + segundoNumero + " es: " + (primerNumero - segundoNumero));
             Console.WriteLine("El resultado de " + primerNumero + " * " + segundoNumero + " es: " + (primerNumero * segundoNumero));
-            double primerNumeroDecimal = ConvertAndParse.ToDouble(primerNumero);
-            double segundoNumeroDecimal = ConvertAndParse.ToDouble(segundoNumero);
+            double primerNumeroDecimal = Convert.ToDouble(primerNumero);
+            double segundoNumeroDecimal = Convert.ToDouble(segundoNumero);
             Console.WriteLine("El resultado de " + primerNumeroDecimal + " / " + segundoNumeroDecimal + " es: " + (primerNumeroDecimal / segundoNumeroDecimal));
              
         }
     }
 
 }
-ci
